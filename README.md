@@ -1,1 +1,2 @@
-# expense-tracker
+# Daily activity tracker
+
